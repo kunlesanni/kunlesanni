@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&card_width=445)](https://github.com/kunlesanni/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&card_width=445&hide=html)](https://github.com/kunlesanni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&card_width=445&hide=html,css)](https://github.com/kunlesanni/github-readme-stats)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&hide=javascript,html)-->
 
