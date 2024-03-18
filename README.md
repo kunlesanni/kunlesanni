@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently crafting Azure castles in the cloud, one resource at a time!
 - 🌱 I’m currently learning the ancient art of Infrastructure as Code alchemy.
-- 👯 I’m looking to collaborate on building the next generation of server-side sorcery – let's brew some automation potions together!
-- 🤔 I’m looking for help with scripting spells to summon cloud resources with a flick of my wand.
+- 👯 I’m looking to collaborate on building the next generation of cloud sorcery – let's brew some automation potions together!
+- 🤔 I’m looking for help with cracking the code of the universe (or at least my deployment scripts)!
 - 💬 Ask me about my adventures in the enchanted land of Infrastructure as Code!
 - 📫 How to reach me: Send a message via smoke signals or carrier pigeon... or you know, just drop me a line here! No crystal balls required.
 - 😄 Pronouns:  Wizard/~Witch~ (because why be ordinary when you can be magical?)
