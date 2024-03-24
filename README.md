@@ -1,4 +1,4 @@
-### Hi humans 👋 , I am Olakunle, you can call me split(Olakunle, 3) 🙂
+### Hi humans 👋 , I am Olakunle but you can call me Olakunle[:2] 🙂
 
 <!--
 **kunlesanni/kunlesanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
