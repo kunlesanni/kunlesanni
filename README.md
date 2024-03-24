@@ -3,6 +3,9 @@
 <!--
 **kunlesanni/kunlesanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Git is valuable because it allows you to track changes to your code over <span style="font-size: 1em;">time</span>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
