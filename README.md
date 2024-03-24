@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi humans 👋 , I am Olakunle, you can call me split(Olakunle, 3) ;)
 
 <!--
 **kunlesanni/kunlesanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
