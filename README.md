@@ -1,6 +1,6 @@
 ### Hi humans 👋 , I am Olakunle but you can call me Olakunle[:2] 🙂
 
-<!--
+
 **kunlesanni/kunlesanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Git is valuable because it allows you to track changes to your code over <span style="font-size: 1em;">time</span>
