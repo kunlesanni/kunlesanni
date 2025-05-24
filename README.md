@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Olakunle (alias: **Ola** | **Kunle**)
+# Hi there 👋, I'm Olakunle (**Ola**/**Kunle** both resolve fine!)
 
 <div align="center">
   
