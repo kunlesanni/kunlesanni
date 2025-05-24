@@ -1,12 +1,11 @@
-<p align="center">
-  <h1>Hi there 👋, I'm Olakunle</h1>
-  <h3>(but you can call me <strong>Ola</strong> or <strong>Kunle</strong> - whichever loads faster!)</h3>
-</p>
-
+<div align="center">
+  <h1 style="margin-bottom: 0;">Hi there 👋, I'm Olakunle</h1>
+  <h3 style="margin-top: 4px;">(but you can call me <strong>Ola</strong> or <strong>Kunle</strong> - whichever loads faster!)</h3>
+</div>
 
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cloud+Architect+%7C+Azure+Specialist;DevOps+Engineer+%7C+Infrastructure+Wizard;Crafting+cloud+castles%2C+one+resource+at+a+time!;Turning+coffee+into+infrastructure+since+2017)](https://git.io/typing-svg)
 
 </div>
@@ -26,6 +25,7 @@ olakunle_sanni:
 ```
 
 ## 🔭 **Currently Brewing**
+
 - 🏗️ **Azure Castles**: Building scalable cloud architectures with Terraform & Bicep
 - 🧙‍♂️ **Infrastructure Sorcery**: Mastering Kubernetes orchestration magic
 - 🤖 **Automation Potions**: Crafting CI/CD pipelines that practically run themselves
@@ -34,21 +34,25 @@ olakunle_sanni:
 ## 🛠️ **My Magical Arsenal**
 
 ### ☁️ **Cloud Platforms**
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🏗️ **Infrastructure as Code**
+
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🚀 **DevOps & Orchestration**
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 💻 **Programming Languages**
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -57,13 +61,13 @@ olakunle_sanni:
 ## 📊 **Spell-casting Statistics**
 
 <div align="center">
-  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunlesanni&theme=tokyonight-duo&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
-  
+
 [![Kunle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunlesanni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -72,7 +76,7 @@ olakunle_sanni:
 ## 🌟 **Featured Spellbooks (Repositories)**
 
 <div align="center">
-  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunlesanni&repo=azure-quickstart-templates&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/kunlesanni/azure-quickstart-templates)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunlesanni&repo=terraform-azure-modules&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/kunlesanni/terraform-azure-modules)
 
@@ -88,14 +92,14 @@ olakunle_sanni:
 ## 🎯 **What I'm Looking For**
 
 - 🤝 **Collaboration**: Building the next generation of cloud-native applications
-- 🧠 **Knowledge Exchange**: Sharing DevOps best practices and learning from the community  
+- 🧠 **Knowledge Exchange**: Sharing DevOps best practices and learning from the community
 - 🚀 **Innovation**: Working on projects that push the boundaries of what's possible in the cloud
 - ☕ **Coffee Chats**: Always up for discussing the latest in Azure, automation, or anything tech!
 
 ---
 
 <div align="center">
-  
+
 ### 💫 *"Infrastructure as Code isn't just about automation—it's about crafting digital dreams into reality, one deployment at a time."*
 
 **🎩 Happy to help turn your cloud challenges into magical solutions! ✨**
