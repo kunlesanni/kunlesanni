@@ -3,7 +3,6 @@
   <h3 style="margin-top: 4px;">(but you can call me <strong>Ola</strong> or <strong>Kunle</strong> - whichever loads faster!)</h3>
 </div>
 
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cloud+Architect+%7C+Azure+Specialist;DevOps+Engineer+%7C+Infrastructure+Wizard;Building+cloud+castles+with+code;Turning+coffee+into+infrastructure+since+2017)](https://git.io/typing-svg)
@@ -17,7 +16,7 @@
 ```yaml
 olakunle_sanni:
   role: "Senior Cloud Architect & DevOps Engineer"
-  location: "Seattle, WA 🌲"
+  location: "London, UK 🌲"
   current_focus: "Azure Infrastructure as Code Alchemy"
   coffee_consumption: "5+ cups daily ☕"
   deployment_style: "Smooth as butter, strong as espresso"
@@ -26,8 +25,8 @@ olakunle_sanni:
 
 ## 🔭 **Currently Brewing**
 
-- 🏗️ **Azure Castles**: Building scalable cloud architectures with Terraform & Bicep
-- 🧙‍♂️ **Infrastructure Sorcery**: Mastering Kubernetes orchestration magic
+- 🏗️ **Azure Castles**: Building scalable cloud architectures with Terraform, Python and GitHub Actions
+- 🧙‍♂️ **Infrastructure Sorcery**: Mastering Container orchestration magic
 - 🤖 **Automation Potions**: Crafting CI/CD pipelines that practically run themselves
 - 📚 **Learning Quest**: Diving deep into Azure Well-Architected Framework
 
@@ -53,9 +52,9 @@ olakunle_sanni:
 
 ### 💻 **Programming Languages**
 
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ## 📊 **Spell-casting Statistics**
@@ -84,9 +83,9 @@ olakunle_sanni:
 
 ## 🤝 **Let's Connect & Collaborate**
 
-- 💼 **LinkedIn**: [Connect with me professionally](https://linkedin.com/in/olakunle-sanni)
-- 📧 **Email**: olakunle.sanni@example.com
-- 🐦 **Twitter**: [@kunle_devops](https://twitter.com/kunle_devops)
+- 💼 **LinkedIn**: [Connect with me professionally](https://linkedin.com/in/osanni)
+- 📧 **Email**: [kunlesanni@gmail.com](mailto:kunlesanni@gmail.com)
+- 🐦 **Twitter**: [@kunlesanni](https://twitter.com/kunlesanni)
 - 💬 **Discord**: Always ready to chat about cloud architecture!
 
 ## 🎯 **What I'm Looking For**
@@ -94,6 +93,7 @@ olakunle_sanni:
 - 🤝 **Collaboration**: Building the next generation of cloud-native applications
 - 🧠 **Knowledge Exchange**: Sharing DevOps best practices and learning from the community
 - 🚀 **Innovation**: Working on projects that push the boundaries of what's possible in the cloud
+- 🤖  **AI Integration** : Breaking new boundaries by weaving AI/ML into cloud infrastructure - from intelligent auto-scaling to predictive DevOps workflows
 - ☕ **Coffee Chats**: Always up for discussing the latest in Azure, automation, or anything tech!
 
 ---
