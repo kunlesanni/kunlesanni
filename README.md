@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="margin-bottom: 0;">Hi there 👋, I'm Olakunle</h1>
-  <h3 style="margin-top: 4px;">but you can call me <strong>Ola</strong> or <strong>Kunle</strong> - whichever loads faster!</h3>
+  <h3 style="margin-top: 4px;">but you can call me <strong>"Ola"</strong> or <strong>"Kunle"</strong> - whichever loads faster!</h3>
 </div>
 
 <div align="center">
