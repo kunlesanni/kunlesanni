@@ -17,7 +17,7 @@ olakunle_sanni:
   current_focus: "Azure Infrastructure as Code Alchemy"
   coffee_consumption: "5+ cups daily ☕"
   deployment_style: "Smooth as butter, strong as espresso"
-  fun_fact: "I make servers dance to the rhythm of automation 💃"
+  fun_fact: "I turn coffee into infrastructure code at a 1:1 ratio ☕"
 ```
 
 ## 🔭 **Currently Brewing**
