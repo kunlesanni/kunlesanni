@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Olakunle (but you can call me **Kunle**!) 
+# Hi there 👋, I'm Olakunle (but you can call me **Ola** or **Kunle** - whichever loads faster!)
 
 <div align="center">
   
