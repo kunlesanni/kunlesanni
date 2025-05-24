@@ -1,4 +1,9 @@
-# Hi there 👋, I'm Olakunle ### (but you can call me **Ola** or **Kunle** - whichever loads faster!)
+<p align="center">
+  <h1>Hi there 👋, I'm Olakunle</h1>
+  <h3>(but you can call me <strong>Ola</strong> or <strong>Kunle</strong> - whichever loads faster!)</h3>
+</p>
+
+
 
 <div align="center">
   
